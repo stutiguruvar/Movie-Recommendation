@@ -1,4 +1,4 @@
-# Movie-Recommendation
+# Movie-Recommendator
 
 
 A machine learning model for recommending five different movies relating to a single movie taken in input. 
